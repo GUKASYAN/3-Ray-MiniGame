@@ -1,0 +1,8 @@
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\obj\Debug\UnityVS.Test.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\obj\Debug\Assembly-CSharp.dll
+C:\Users\Roman\OneDrive\Projects\LotosGaming\Test\obj\Debug\Assembly-CSharp.pdb
